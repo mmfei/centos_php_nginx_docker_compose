@@ -1,0 +1,2 @@
+FROM nginx
+ENV NGINX_VERSION=1.21.5
